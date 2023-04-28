@@ -1,6 +1,5 @@
 # Laravel 9 Boilerplate  Auth, Passport, Livewire,Helpers, Simple and User Friendly
 
-
 ## Features
 
     1. Laravel 8 Framework
@@ -14,6 +13,9 @@
     10. Authentication
     11. User Panel
     12. Use of Helpers
+## PREVIEW
+
+[![PREVIEW VIDEO](./screenshot/PREVIEW.mp4)](./screenshot/PREVIEW.mp4)
 
 ### Requirements
 

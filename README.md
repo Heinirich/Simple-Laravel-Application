@@ -13,6 +13,7 @@
     9.  Admin Template
     10. Authentication
     11. User Panel
+    12. Use of Helpers
 
 ### Requirements
 

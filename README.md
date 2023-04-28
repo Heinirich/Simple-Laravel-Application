@@ -15,6 +15,8 @@
     12. Use of Helpers
 ## PREVIEW
 
+Screenshots as attached below
+
 [![PREVIEW VIDEO](./screenshot/PREVIEW.mp4)](./screenshot/PREVIEW.mp4)
 
 ### Requirements

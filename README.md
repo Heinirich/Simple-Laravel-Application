@@ -19,6 +19,10 @@ Screenshots as attached below
 
 [![PREVIEW VIDEO](./screenshot/PREVIEW.mp4)](./screenshot/PREVIEW.mp4)
 
+
+https://user-images.githubusercontent.com/69395330/235089990-5632c931-93c1-4035-99d9-66ca04cac0c5.mp4
+
+
 ### Requirements
 
     1. PHP version 8.2.2 and Above   

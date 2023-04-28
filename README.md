@@ -34,7 +34,8 @@ Screenshots as attached below
     4. Go to project root folder.Open git bash or terminal and run  composer install       
     5. Run php artisan key:generate in the terminal    
     6. import db.sql from db folder
-    7. Run php artisan serve
+    7. Run composer install
+    8. Run php artisan serve
 
          
     
